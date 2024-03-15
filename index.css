@@ -21,7 +21,7 @@
 
 .nav-flex-row li a {
     font-family: 'Big Shoulders Text', cursive;
-    color: #ffffff;
+    color: #ffffef;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 300;
@@ -39,7 +39,7 @@
 
 .section-intro h1 {
     text-align: center;
-    color: #ffffff;
+    color: #faffff;
     font-size: 4em;
     font-weight: 700;
 }
